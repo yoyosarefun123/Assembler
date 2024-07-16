@@ -1,0 +1,3 @@
+Error: label LOO is undefined
+Error in line 1: label START is declared as entry, but is not defined.
+There are 2 errors in your program after second run

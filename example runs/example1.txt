@@ -1,0 +1,32 @@
+Error in line 1: Illegal label: Label cannot be a saved name
+Error in line 3: Missing comma
+Error in line 4: Extreneous text after end of command
+Error in line 6: Integer overflow
+Error in line 7: Extraneous text after end of command
+Error in line 8: Illegal register number
+Error in line 9: Illegal register name
+Error in line 10: Illegal label: First character cannot be non-alphabetic
+Error in line 11: Illegal label: Label cannot be a saved name
+Error in line 12: Illegal label: Label cannot be a saved name
+Error in line 15: target operand is immed, should be register or label
+Warning in line 17: label HELLO has been already been previously declared entry.
+Error in line 18: label HELLO has already been declared entry in the code and cannot be declared external.
+Error in line 20: label YES has already been declared as external and cannot be declared entry.
+Error in line 21: label YES has already been declared external and cannot be defined in this program.
+Error in line 22: label declaration is illegal as that name is saved for macro name.
+Error in line 24: Missing comma
+Error in line 25: Extreneous text after end of command
+Error in line 26: Missing parameter
+Error in line 27: String cannot contain non-printable characters
+Error in line 28: Missing closing apostrophes in .string directive
+Error in line 29: Missing opening apostrophes in .string directive
+Error in line 30: Extraneous text after end of string
+Error in line 31: Extraneous text before string
+Error in line 32: Missing apostrophes in string after '.string' directive
+Error in line 33: Missing parameter
+Error in line 34: Illegal operand for directive '.data'
+Error in line 35: Illegal operand for directive '.data'
+Error in line 36: Integer overflow
+Error in line 38: Illegal label: Label cannot contain non-alphanumeric cahracters
+Error in line 39: Extreneous text after end of command
+There are 30 errors in your program after first run
