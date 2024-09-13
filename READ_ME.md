@@ -1,3 +1,5 @@
+#Assembler Project
+
 Hello! This is Daniel and Yoav's assembler project.
 
 We built it in such a fashion that if you do not enter 
